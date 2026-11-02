@@ -1,5 +1,7 @@
 #Power analysis on grazed BLTR samples
 
+#Using height only for this test
+
 library(pwr)
 library(tidyverse)
 #grazed sample heights
